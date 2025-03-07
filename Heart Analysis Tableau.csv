@@ -1,0 +1,1001 @@
+Patient_id,Age,Gender,Blood_Pressure,cholesterol_Level,Heart_Rate,Smoking_Status,Family_History,Diagnosis_Rate,Year,State,BMI,Heart_Disease
+1,37,Male,131,227,65,Yes,Yes,84,2021,Telangana,74,No
+2,21,Male,134,190,86,No,Yes,35,2022,Gujarat,128,No
+3,60,Female,109,200,131,No,No,40,2022,Karnataka,65,Yes
+4,43,Female,110,237,99,No,No,72,2022,Maharashtra,58,Yes
+5,26,Female,142,244,120,No,Yes,96,2023,Tamil Nadu,62,No
+6,85,Female,115,208,103,No,Yes,62,2022,Jharkhand,146,No
+7,36,Female,116,120,110,No,No,89,2024,Rajasthan,36,No
+8,68,Female,103,198,66,Yes,Yes,59,2020,Maharashtra,115,No
+9,21,Female,101,246,74,No,Yes,86,2020,Uttarakhand,110,Yes
+10,52,Male,136,163,87,No,Yes,47,2024,Telangana,128,Yes
+11,84,Male,82,163,144,Yes,Yes,70,2023,Himachal Pradesh,108,Yes
+12,38,Female,132,203,106,No,Yes,41,2022,Maharashtra,145,No
+13,84,Male,107,191,122,No,Yes,38,2024,Odisha,84,No
+14,56,Female,87,179,132,No,Yes,94,2024,Uttarakhand,102,No
+15,85,Female,115,221,40,No,Yes,82,2022,Kerala,46,Yes
+16,71,Female,138,109,116,No,Yes,40,2024,Jharkhand,45,Yes
+17,55,Female,122,178,119,No,Yes,39,2021,Odisha,78,Yes
+18,45,Male,102,210,46,Yes,Yes,97,2024,Punjab,86,Yes
+19,48,Female,88,152,65,No,Yes,92,2021,Himachal Pradesh,93,No
+20,40,Male,93,150,134,Yes,Yes,93,2024,Uttarakhand,147,Yes
+21,31,Female,99,156,46,Yes,Yes,99,2023,Jammu and Kashmir,54,Yes
+22,70,Female,109,241,89,Yes,No,72,2020,Himachal Pradesh,93,No
+23,78,Male,113,246,82,No,No,68,2024,Tamil Nadu,96,No
+24,37,Male,92,103,50,No,No,96,2023,Kerala,78,Yes
+25,42,Male,101,213,139,Yes,No,40,2023,Himachal Pradesh,33,No
+26,43,Male,86,172,65,Yes,Yes,91,2024,Maharashtra,38,No
+27,47,Male,147,169,127,No,Yes,48,2024,Telangana,33,No
+28,33,Female,104,136,146,No,No,39,2022,Goa,69,No
+29,65,Male,92,245,88,Yes,Yes,38,2021,Telangana,149,Yes
+30,52,Female,125,187,66,Yes,No,62,2024,Madhya Pradesh,139,Yes
+31,44,Male,122,191,83,No,Yes,99,2023,Kerala,139,No
+32,60,Female,99,233,70,No,No,80,2020,Uttarakhand,74,No
+33,47,Female,115,103,81,No,Yes,69,2023,Uttarakhand,114,No
+34,77,Female,147,110,49,Yes,No,31,2024,Bihar,122,Yes
+35,63,Female,107,206,109,Yes,No,86,2024,Jharkhand,92,No
+36,40,Female,133,220,79,No,Yes,100,2023,Rajasthan,64,No
+37,66,Female,148,200,68,No,Yes,30,2021,Himachal Pradesh,37,Yes
+38,49,Female,146,194,114,No,No,72,2020,Chhattisgarh,71,Yes
+39,53,Female,116,232,118,Yes,Yes,69,2024,Gujarat,55,No
+40,28,Male,137,181,144,Yes,No,71,2024,Kerala,100,Yes
+41,65,Female,104,176,117,Yes,No,88,2024,Punjab,46,Yes
+42,25,Female,85,250,61,No,Yes,62,2024,Gujarat,34,Yes
+43,25,Male,142,233,68,No,No,41,2024,Tamil Nadu,144,Yes
+44,83,Male,103,234,68,Yes,No,49,2022,Telangana,51,No
+45,31,Female,96,155,89,No,No,93,2024,Jharkhand,98,No
+46,64,Female,104,218,41,Yes,Yes,64,2023,Kerala,64,Yes
+47,66,Female,100,153,65,No,No,38,2023,Bihar,139,No
+48,38,Male,102,154,91,No,No,65,2022,Karnataka,85,No
+49,25,Male,80,184,64,Yes,No,49,2022,Telangana,45,Yes
+50,56,Male,145,211,120,No,No,92,2020,Jammu and Kashmir,129,Yes
+51,55,Male,140,206,45,Yes,Yes,80,2022,Himachal Pradesh,71,Yes
+52,29,Male,128,234,47,Yes,No,71,2024,Kerala,89,Yes
+53,21,Male,99,124,118,No,Yes,95,2021,Jammu and Kashmir,145,Yes
+54,56,Female,84,218,43,No,No,99,2021,Tamil Nadu,105,No
+55,21,Female,146,131,98,Yes,Yes,54,2022,Odisha,61,Yes
+56,62,Male,128,100,88,Yes,No,45,2024,Maharashtra,150,Yes
+57,37,Female,147,243,111,No,No,83,2021,Karnataka,40,Yes
+58,22,Female,115,179,141,No,No,86,2023,Odisha,45,Yes
+59,66,Female,138,140,85,No,No,61,2020,Madhya Pradesh,134,No
+60,44,Male,121,130,79,No,No,64,2020,Uttar Pradesh,143,Yes
+61,61,Female,136,128,136,Yes,Yes,71,2024,Karnataka,67,No
+62,75,Male,95,149,62,No,No,87,2023,Madhya Pradesh,67,No
+63,76,Male,83,244,76,Yes,Yes,84,2022,Karnataka,60,No
+64,74,Female,135,245,141,Yes,No,65,2022,Uttar Pradesh,148,No
+65,29,Female,136,226,139,No,Yes,96,2020,Madhya Pradesh,77,No
+66,44,Male,106,145,114,Yes,No,37,2021,Kerala,107,Yes
+67,48,Female,134,210,53,No,Yes,57,2020,Goa,132,No
+68,54,Female,102,212,115,Yes,No,53,2021,Bihar,146,Yes
+69,38,Female,150,225,61,No,Yes,43,2023,Haryana,84,No
+70,74,Female,126,237,125,No,Yes,70,2023,Uttarakhand,44,No
+71,77,Male,129,128,126,No,No,39,2024,Maharashtra,102,Yes
+72,66,Male,147,231,77,Yes,No,88,2023,Punjab,127,Yes
+73,60,Female,96,153,137,Yes,Yes,48,2023,Punjab,97,No
+74,68,Female,89,137,74,No,Yes,79,2023,Madhya Pradesh,48,Yes
+75,25,Female,133,103,91,Yes,No,96,2024,Haryana,134,No
+76,27,Male,137,242,129,No,No,60,2022,Uttar Pradesh,132,No
+77,60,Female,109,237,123,Yes,No,53,2020,Gujarat,85,No
+78,21,Female,125,138,117,No,No,54,2021,Maharashtra,46,No
+79,66,Male,105,213,95,Yes,Yes,97,2024,Jammu and Kashmir,79,Yes
+80,35,Female,82,103,150,No,Yes,64,2020,Himachal Pradesh,93,Yes
+81,44,Male,148,160,136,No,No,66,2024,Jharkhand,58,No
+82,40,Male,96,131,56,No,Yes,51,2021,Goa,142,Yes
+83,85,Male,115,224,53,Yes,Yes,99,2024,Jharkhand,101,Yes
+84,73,Male,127,146,83,No,No,71,2020,Jharkhand,94,No
+85,46,Female,103,144,118,No,Yes,52,2020,Rajasthan,110,Yes
+86,75,Female,89,230,113,Yes,No,81,2023,Uttarakhand,68,No
+87,22,Female,109,115,88,No,Yes,60,2022,Odisha,49,Yes
+88,51,Female,144,118,74,No,No,70,2022,Bihar,37,Yes
+89,51,Female,136,102,69,No,No,56,2022,Karnataka,119,Yes
+90,72,Male,92,244,97,Yes,Yes,79,2021,Odisha,113,No
+91,52,Male,87,249,58,No,Yes,54,2021,Odisha,81,No
+92,71,Male,139,157,91,Yes,No,71,2023,Punjab,46,No
+93,58,Male,122,179,62,No,No,57,2024,Kerala,93,No
+94,44,Male,137,187,150,No,Yes,78,2020,Tamil Nadu,78,No
+95,34,Female,109,216,96,No,Yes,76,2023,Odisha,128,Yes
+96,62,Male,81,134,147,No,Yes,97,2024,Haryana,100,Yes
+97,43,Male,133,213,61,Yes,No,81,2020,Punjab,52,Yes
+98,34,Female,114,233,112,Yes,Yes,53,2020,Maharashtra,122,Yes
+99,43,Female,82,191,71,Yes,No,43,2023,Jharkhand,52,No
+100,30,Male,103,111,135,Yes,No,31,2023,Uttarakhand,74,No
+101,20,Female,113,155,131,No,No,32,2021,Assam,78,No
+102,38,Female,149,173,147,No,Yes,48,2022,Kerala,60,Yes
+103,74,Male,144,219,59,Yes,No,63,2022,Bihar,45,No
+104,75,Male,100,199,94,Yes,No,98,2022,Assam,65,No
+105,83,Male,134,198,47,Yes,Yes,70,2023,Punjab,135,Yes
+106,47,Male,147,127,68,No,Yes,64,2022,Telangana,117,No
+107,44,Female,109,199,75,No,Yes,69,2021,Odisha,82,No
+108,21,Female,121,158,64,Yes,Yes,86,2023,Goa,137,No
+109,67,Male,86,110,73,No,Yes,60,2020,Haryana,91,No
+110,63,Male,103,163,48,No,No,97,2024,Tamil Nadu,97,Yes
+111,23,Female,145,176,50,Yes,No,68,2020,Karnataka,136,Yes
+112,44,Female,88,110,93,Yes,Yes,48,2020,Madhya Pradesh,102,Yes
+113,72,Female,100,230,53,No,No,65,2022,Himachal Pradesh,145,Yes
+114,72,Male,147,228,129,No,Yes,70,2021,Uttarakhand,59,No
+115,56,Male,131,227,127,Yes,Yes,97,2024,Uttarakhand,59,No
+116,31,Male,133,144,116,Yes,Yes,56,2023,Tamil Nadu,127,No
+117,31,Male,138,105,74,Yes,Yes,82,2021,Maharashtra,103,Yes
+118,66,Female,124,118,59,No,Yes,67,2023,Bihar,90,Yes
+119,79,Male,132,171,75,No,Yes,51,2020,Jharkhand,86,Yes
+120,29,Male,136,232,82,Yes,No,81,2024,Jammu and Kashmir,117,Yes
+121,22,Male,92,223,123,No,No,44,2024,Jharkhand,107,Yes
+122,57,Female,81,180,126,Yes,No,95,2021,Bihar,113,No
+123,76,Male,128,211,81,No,No,70,2022,Bihar,75,No
+124,36,Female,132,191,56,No,No,92,2024,Punjab,143,Yes
+125,61,Male,108,201,95,Yes,No,30,2022,Uttar Pradesh,147,No
+126,61,Male,130,206,86,No,No,57,2024,Chhattisgarh,92,Yes
+127,49,Male,142,195,87,Yes,No,36,2023,Maharashtra,118,Yes
+128,35,Male,122,170,108,No,No,79,2020,Maharashtra,136,No
+129,78,Male,111,192,114,Yes,No,40,2022,Punjab,76,No
+130,54,Male,93,160,96,Yes,No,31,2021,Chhattisgarh,36,No
+131,60,Male,134,163,101,Yes,Yes,39,2021,Goa,61,No
+132,76,Female,144,204,146,No,No,36,2023,Kerala,81,No
+133,67,Male,149,126,59,Yes,No,59,2024,Rajasthan,107,Yes
+134,76,Male,94,151,71,No,Yes,33,2020,Madhya Pradesh,70,No
+135,25,Male,83,182,89,No,Yes,58,2023,Karnataka,107,Yes
+136,56,Female,112,187,84,Yes,Yes,31,2024,Odisha,120,Yes
+137,65,Female,123,123,138,No,No,43,2021,Goa,86,No
+138,41,Male,108,145,80,Yes,Yes,58,2022,Chhattisgarh,149,Yes
+139,21,Male,98,218,58,No,No,92,2023,Gujarat,35,Yes
+140,55,Male,128,236,47,No,Yes,66,2022,Haryana,129,No
+141,77,Male,103,185,150,Yes,No,87,2021,Uttarakhand,81,No
+142,26,Male,140,223,101,Yes,Yes,98,2020,Uttar Pradesh,98,Yes
+143,68,Male,88,185,117,Yes,No,56,2023,Chhattisgarh,102,Yes
+144,73,Female,141,148,133,No,No,84,2020,Chhattisgarh,58,No
+145,32,Female,125,172,145,Yes,Yes,90,2023,Jharkhand,66,Yes
+146,45,Male,126,129,136,No,Yes,41,2024,Uttar Pradesh,145,No
+147,34,Male,100,217,78,Yes,Yes,38,2024,Maharashtra,81,Yes
+148,85,Female,96,215,145,No,Yes,59,2023,Jammu and Kashmir,54,No
+149,81,Male,128,161,67,No,No,51,2024,Tamil Nadu,69,Yes
+150,52,Male,88,147,79,Yes,Yes,83,2022,Maharashtra,59,No
+151,80,Female,135,159,127,Yes,Yes,50,2024,Punjab,125,No
+152,55,Male,134,107,117,Yes,No,40,2023,Jharkhand,75,No
+153,73,Female,83,193,124,Yes,Yes,79,2023,Karnataka,116,No
+154,38,Female,97,112,51,No,Yes,72,2023,Assam,111,Yes
+155,36,Male,112,102,86,No,Yes,55,2021,Chhattisgarh,133,Yes
+156,28,Male,118,195,138,Yes,No,45,2022,Goa,73,Yes
+157,62,Female,126,173,79,Yes,No,41,2022,Uttarakhand,108,No
+158,78,Female,126,198,71,Yes,No,51,2023,Jharkhand,124,No
+159,79,Male,147,242,51,No,Yes,68,2024,Karnataka,72,Yes
+160,31,Male,148,100,102,Yes,Yes,49,2023,Gujarat,71,Yes
+161,29,Male,145,109,133,No,Yes,96,2021,Chhattisgarh,40,No
+162,77,Male,144,130,121,Yes,No,69,2023,Rajasthan,85,No
+163,45,Male,149,206,109,No,No,66,2021,Uttar Pradesh,71,Yes
+164,30,Male,102,220,51,Yes,Yes,79,2020,Rajasthan,43,No
+165,45,Female,133,118,89,Yes,No,55,2024,Jammu and Kashmir,79,No
+166,52,Female,113,191,118,No,No,41,2021,Kerala,56,Yes
+167,55,Male,122,163,78,No,No,95,2020,Maharashtra,79,Yes
+168,38,Female,126,209,87,No,Yes,61,2024,Telangana,132,Yes
+169,62,Male,121,240,80,Yes,No,42,2020,Goa,99,Yes
+170,47,Male,91,145,112,No,Yes,54,2024,Bihar,114,No
+171,29,Female,80,202,71,Yes,No,99,2024,Bihar,38,Yes
+172,57,Female,110,152,132,Yes,No,98,2023,Himachal Pradesh,112,Yes
+173,66,Female,117,195,79,Yes,No,36,2022,Gujarat,124,No
+174,22,Female,137,164,125,Yes,Yes,35,2023,Telangana,139,Yes
+175,21,Male,83,216,117,No,No,68,2023,Telangana,131,No
+176,38,Male,141,245,112,No,Yes,75,2020,Chhattisgarh,35,No
+177,80,Female,135,156,139,Yes,Yes,61,2021,Bihar,39,Yes
+178,71,Female,118,180,136,No,Yes,31,2021,Punjab,68,No
+179,51,Female,113,208,51,No,Yes,93,2022,Gujarat,60,Yes
+180,21,Male,100,201,115,No,No,42,2021,Assam,86,Yes
+181,83,Male,109,128,90,No,No,69,2022,Punjab,108,No
+182,33,Female,96,144,122,No,Yes,95,2021,Karnataka,55,Yes
+183,51,Female,81,150,145,Yes,No,63,2021,Madhya Pradesh,83,Yes
+184,56,Male,134,147,130,Yes,No,96,2023,Punjab,120,Yes
+185,30,Male,150,105,149,Yes,Yes,30,2022,Gujarat,41,Yes
+186,37,Female,108,163,147,No,No,69,2021,Punjab,44,No
+187,73,Female,130,133,113,No,Yes,53,2020,Jammu and Kashmir,149,No
+188,42,Female,95,223,148,No,No,35,2021,Bihar,93,No
+189,74,Male,141,234,144,Yes,No,50,2023,Chhattisgarh,54,Yes
+190,40,Male,141,224,95,Yes,No,78,2022,Uttarakhand,47,No
+191,57,Female,132,176,97,Yes,No,83,2021,Himachal Pradesh,66,No
+192,71,Female,147,237,84,No,No,35,2022,Bihar,87,No
+193,58,Male,120,158,51,Yes,Yes,31,2023,Jammu and Kashmir,67,No
+194,44,Male,147,142,147,No,No,70,2021,Haryana,81,Yes
+195,79,Female,136,146,71,No,Yes,91,2023,Bihar,135,Yes
+196,48,Female,148,147,58,Yes,Yes,47,2023,Gujarat,78,No
+197,79,Female,131,107,43,Yes,No,54,2024,Himachal Pradesh,122,Yes
+198,44,Female,146,178,43,No,Yes,94,2020,Uttarakhand,51,Yes
+199,20,Male,89,225,144,Yes,Yes,68,2021,Jammu and Kashmir,148,No
+200,40,Male,96,236,66,Yes,No,75,2022,Jharkhand,76,Yes
+201,84,Female,112,155,84,No,No,63,2021,Kerala,62,No
+202,78,Female,132,133,103,Yes,No,92,2020,Bihar,132,Yes
+203,75,Male,104,147,67,No,Yes,90,2024,Odisha,145,Yes
+204,64,Male,149,188,90,Yes,Yes,58,2021,Himachal Pradesh,99,Yes
+205,64,Female,85,157,74,No,No,79,2020,Madhya Pradesh,68,Yes
+206,30,Male,141,232,114,No,Yes,31,2023,Haryana,133,Yes
+207,38,Male,105,177,98,Yes,No,50,2024,Karnataka,135,No
+208,44,Female,126,180,60,Yes,Yes,81,2023,Kerala,96,Yes
+209,25,Female,81,145,94,No,Yes,98,2022,Rajasthan,62,Yes
+210,77,Male,119,220,106,Yes,Yes,32,2020,Chhattisgarh,138,No
+211,72,Female,137,233,66,Yes,No,87,2020,Bihar,103,Yes
+212,50,Female,140,124,142,Yes,Yes,41,2020,Gujarat,76,No
+213,24,Male,101,168,51,Yes,Yes,68,2022,Rajasthan,145,Yes
+214,81,Female,99,161,98,No,Yes,88,2023,Goa,126,Yes
+215,42,Male,123,174,61,Yes,Yes,42,2024,Bihar,125,Yes
+216,24,Female,137,210,101,No,No,53,2021,Jharkhand,33,No
+217,40,Female,136,235,71,No,Yes,46,2023,Gujarat,31,No
+218,55,Male,100,238,97,No,No,57,2024,Chhattisgarh,84,No
+219,73,Male,134,156,108,No,No,58,2024,Karnataka,131,Yes
+220,67,Male,133,211,102,No,No,32,2024,Kerala,70,Yes
+221,57,Male,128,235,140,No,Yes,83,2022,Jammu and Kashmir,137,No
+222,82,Male,97,166,58,No,Yes,64,2022,Uttar Pradesh,43,No
+223,71,Male,142,245,121,No,Yes,48,2022,Maharashtra,94,No
+224,77,Female,100,124,69,No,Yes,44,2022,Jharkhand,50,Yes
+225,74,Male,113,249,49,No,No,52,2020,Jammu and Kashmir,109,No
+226,43,Male,129,187,45,Yes,Yes,64,2022,Jammu and Kashmir,47,No
+227,64,Male,98,128,47,Yes,No,43,2023,Jharkhand,85,No
+228,39,Female,150,213,134,Yes,No,56,2021,Uttarakhand,90,Yes
+229,54,Male,124,151,120,Yes,Yes,97,2024,Bihar,71,No
+230,65,Female,133,239,119,No,No,44,2024,Punjab,119,Yes
+231,50,Male,144,247,83,Yes,Yes,44,2022,Himachal Pradesh,150,No
+232,68,Female,123,169,80,No,Yes,92,2020,Chhattisgarh,35,No
+233,60,Female,136,132,130,No,No,52,2023,Telangana,69,No
+234,71,Male,101,154,44,No,Yes,32,2021,Uttar Pradesh,52,No
+235,38,Female,138,241,149,No,Yes,69,2022,Bihar,112,Yes
+236,26,Male,113,201,103,No,Yes,64,2022,Gujarat,118,Yes
+237,54,Male,86,165,42,Yes,Yes,56,2022,Jharkhand,145,No
+238,44,Female,89,199,58,No,Yes,59,2023,Punjab,94,Yes
+239,23,Male,104,109,46,Yes,No,89,2024,Chhattisgarh,94,No
+240,23,Male,82,233,84,No,Yes,54,2022,Maharashtra,88,Yes
+241,49,Female,107,173,68,Yes,Yes,76,2022,Rajasthan,54,No
+242,36,Female,143,159,47,Yes,No,94,2021,Madhya Pradesh,39,No
+243,71,Male,134,211,115,Yes,No,82,2022,Jharkhand,136,No
+244,52,Female,106,128,61,Yes,No,31,2020,Rajasthan,77,Yes
+245,65,Male,100,134,130,No,Yes,65,2020,Uttar Pradesh,144,Yes
+246,56,Male,111,197,56,Yes,No,95,2022,Maharashtra,82,Yes
+247,31,Female,121,238,111,Yes,Yes,54,2020,Bihar,71,No
+248,30,Male,115,135,84,Yes,No,87,2020,Jharkhand,107,No
+249,53,Male,108,126,63,No,No,90,2023,Goa,52,Yes
+250,82,Female,127,122,133,No,Yes,75,2024,Telangana,92,Yes
+251,81,Female,88,250,109,No,Yes,85,2020,Rajasthan,103,Yes
+252,73,Female,125,161,89,No,Yes,51,2022,Goa,91,No
+253,33,Female,99,229,88,Yes,Yes,65,2020,Telangana,130,Yes
+254,26,Male,120,220,108,No,Yes,89,2021,Bihar,59,Yes
+255,81,Female,138,237,72,Yes,No,91,2024,Chhattisgarh,118,No
+256,65,Male,126,226,70,No,No,85,2024,Gujarat,62,Yes
+257,44,Male,83,239,41,Yes,No,84,2020,Goa,134,Yes
+258,72,Female,132,167,110,Yes,No,66,2021,Telangana,90,Yes
+259,66,Male,99,217,149,Yes,Yes,79,2021,Gujarat,72,No
+260,72,Female,80,242,114,Yes,Yes,90,2022,Himachal Pradesh,115,Yes
+261,63,Female,87,148,79,No,No,74,2022,Telangana,32,Yes
+262,63,Male,85,129,131,Yes,No,61,2024,Punjab,112,Yes
+263,51,Female,93,250,94,No,Yes,86,2023,Assam,146,No
+264,25,Female,109,163,93,Yes,Yes,99,2023,Bihar,118,Yes
+265,60,Female,133,128,100,No,Yes,62,2024,Gujarat,82,Yes
+266,41,Female,96,154,62,Yes,Yes,56,2021,Bihar,41,Yes
+267,72,Male,112,173,51,No,Yes,37,2022,Goa,97,Yes
+268,62,Female,130,130,146,Yes,Yes,58,2023,Rajasthan,75,Yes
+269,40,Female,138,217,124,Yes,No,83,2024,Gujarat,146,No
+270,43,Male,138,239,102,Yes,No,45,2020,Odisha,143,Yes
+271,59,Female,121,141,62,Yes,No,85,2021,Assam,75,Yes
+272,74,Female,91,130,84,Yes,Yes,51,2022,Madhya Pradesh,33,No
+273,44,Male,128,197,102,Yes,No,32,2020,Uttar Pradesh,120,No
+274,63,Male,127,213,131,Yes,Yes,48,2020,Maharashtra,73,No
+275,56,Female,117,196,138,Yes,Yes,67,2020,Tamil Nadu,142,No
+276,84,Female,109,217,104,No,No,41,2020,Gujarat,96,No
+277,21,Male,91,193,63,Yes,Yes,80,2022,Uttarakhand,129,Yes
+278,45,Male,144,147,51,No,Yes,68,2022,Tamil Nadu,129,Yes
+279,52,Male,138,157,107,No,No,33,2020,Haryana,118,No
+280,39,Female,138,227,111,No,Yes,100,2022,Haryana,135,No
+281,75,Female,107,155,43,No,Yes,71,2021,Uttar Pradesh,67,Yes
+282,65,Male,139,228,142,Yes,Yes,95,2022,Haryana,58,No
+283,74,Male,138,171,45,No,Yes,98,2020,Odisha,53,Yes
+284,22,Male,132,104,95,Yes,No,69,2023,Himachal Pradesh,121,Yes
+285,47,Male,101,177,122,Yes,Yes,72,2021,Maharashtra,66,No
+286,39,Female,149,218,82,No,No,50,2020,Assam,116,Yes
+287,63,Male,89,223,112,Yes,Yes,66,2024,Rajasthan,136,No
+288,43,Male,136,144,144,Yes,Yes,54,2023,Maharashtra,98,No
+289,57,Male,144,109,128,No,Yes,91,2022,Chhattisgarh,58,No
+290,39,Male,109,213,147,Yes,No,38,2021,Haryana,420,Yes
+291,71,Male,103,121,53,Yes,Yes,99,2021,Bihar,32,No
+292,70,Female,138,201,96,Yes,Yes,61,2020,Bihar,113,No
+293,84,Female,120,232,71,Yes,No,36,2024,Jharkhand,118,Yes
+294,79,Male,85,178,130,No,Yes,94,2021,Kerala,140,Yes
+295,25,Female,99,212,139,No,Yes,84,2024,Tamil Nadu,49,Yes
+296,52,Female,146,210,120,Yes,Yes,77,2024,Bihar,46,No
+297,32,Male,82,115,57,No,No,63,2023,Haryana,108,No
+298,42,Male,94,174,57,No,Yes,83,2023,Jharkhand,117,Yes
+299,56,Female,129,143,63,No,No,34,2023,Gujarat,145,No
+300,32,Male,117,140,94,No,No,49,2021,Odisha,63,Yes
+301,24,Male,95,184,95,No,No,76,2022,Assam,135,Yes
+302,26,Male,140,155,98,Yes,Yes,68,2022,Rajasthan,80,Yes
+303,30,Female,125,157,124,Yes,Yes,99,2022,Madhya Pradesh,72,No
+304,45,Female,134,202,144,No,Yes,57,2021,Kerala,73,No
+305,82,Female,96,222,142,Yes,Yes,74,2023,Goa,111,No
+306,27,Female,140,235,118,No,No,89,2021,Chhattisgarh,85,Yes
+307,20,Male,114,216,137,No,Yes,86,2024,Uttar Pradesh,133,Yes
+308,60,Female,91,116,95,Yes,No,70,2023,Odisha,96,Yes
+309,46,Male,136,208,48,Yes,Yes,43,2020,Madhya Pradesh,47,Yes
+310,25,Male,126,172,46,Yes,Yes,39,2020,Chhattisgarh,128,No
+311,50,Male,137,213,58,Yes,No,75,2023,Uttar Pradesh,127,Yes
+312,51,Female,103,208,123,No,No,91,2023,Kerala,120,No
+313,48,Male,138,173,62,No,No,62,2024,Karnataka,148,No
+314,20,Female,101,166,60,Yes,No,57,2022,Uttarakhand,144,Yes
+315,68,Male,132,240,73,No,Yes,36,2023,Jammu and Kashmir,147,No
+316,33,Male,129,242,77,Yes,No,60,2024,Uttarakhand,148,Yes
+317,42,Female,136,173,143,Yes,Yes,47,2021,Goa,148,Yes
+318,40,Male,92,149,118,Yes,Yes,31,2022,Assam,56,No
+319,73,Female,144,222,96,Yes,Yes,74,2023,Kerala,130,Yes
+320,30,Male,106,248,98,Yes,No,92,2023,Uttarakhand,64,No
+321,66,Female,131,211,51,No,No,96,2024,Maharashtra,58,No
+322,44,Male,93,224,78,Yes,Yes,37,2023,Maharashtra,106,Yes
+323,34,Male,97,204,135,Yes,Yes,86,2023,Karnataka,66,Yes
+324,73,Male,94,170,47,Yes,Yes,95,2022,Odisha,82,Yes
+325,43,Male,100,228,53,Yes,No,100,2020,Madhya Pradesh,139,Yes
+326,71,Female,94,198,40,No,No,81,2023,Rajasthan,71,No
+327,45,Male,135,181,64,No,Yes,71,2024,Assam,71,Yes
+328,63,Male,89,137,66,No,Yes,98,2024,Jammu and Kashmir,120,Yes
+329,36,Male,98,202,79,Yes,Yes,36,2023,Maharashtra,58,No
+330,56,Female,106,152,84,Yes,Yes,96,2020,Goa,67,No
+331,53,Male,101,211,64,Yes,No,59,2022,Uttar Pradesh,118,No
+332,23,Female,109,192,139,No,No,62,2020,Jharkhand,102,Yes
+333,25,Female,134,145,111,Yes,Yes,48,2021,Telangana,47,No
+334,29,Male,88,119,73,Yes,Yes,44,2023,Uttar Pradesh,54,No
+335,49,Female,136,100,122,No,No,54,2024,Gujarat,90,No
+336,37,Male,147,123,143,No,Yes,100,2021,Karnataka,136,No
+337,59,Male,132,238,90,No,Yes,92,2024,Jharkhand,63,No
+338,58,Male,97,199,56,Yes,Yes,60,2020,Jharkhand,44,Yes
+339,31,Female,88,128,135,No,Yes,81,2023,Haryana,87,Yes
+340,75,Female,85,243,60,No,Yes,75,2021,Tamil Nadu,116,No
+341,33,Female,140,230,113,Yes,Yes,32,2023,Jharkhand,104,Yes
+342,61,Female,104,205,145,Yes,Yes,40,2023,Uttarakhand,91,Yes
+343,81,Male,97,226,113,No,No,48,2022,Karnataka,107,Yes
+344,40,Male,148,218,121,No,No,38,2022,Haryana,108,No
+345,53,Male,120,122,149,Yes,No,51,2022,Uttar Pradesh,65,No
+346,73,Male,127,167,91,Yes,No,61,2024,Bihar,54,No
+347,43,Male,101,198,142,No,Yes,70,2021,Haryana,44,No
+348,24,Male,121,226,65,Yes,Yes,48,2024,Tamil Nadu,40,No
+349,36,Male,115,197,81,Yes,Yes,39,2021,Bihar,110,Yes
+350,53,Male,133,147,146,Yes,Yes,94,2024,Gujarat,139,No
+351,78,Male,107,122,107,No,No,41,2023,Goa,49,No
+352,57,Male,135,126,46,No,Yes,94,2023,Chhattisgarh,58,Yes
+353,85,Male,127,227,98,No,Yes,36,2022,Jammu and Kashmir,137,No
+354,40,Male,82,173,112,No,Yes,64,2022,Uttar Pradesh,118,No
+355,39,Female,98,123,93,No,Yes,51,2023,Maharashtra,95,No
+356,79,Male,93,109,52,Yes,Yes,92,2021,Gujarat,93,No
+357,58,Male,144,141,144,Yes,No,89,2020,Himachal Pradesh,98,No
+358,64,Male,113,192,66,No,Yes,97,2021,Himachal Pradesh,134,Yes
+359,42,Female,92,160,79,No,No,70,2023,Rajasthan,32,No
+360,59,Female,107,130,42,Yes,Yes,62,2023,Himachal Pradesh,144,No
+361,45,Female,139,170,135,Yes,No,84,2022,Kerala,64,No
+362,74,Male,115,125,79,Yes,No,42,2022,Odisha,55,No
+363,45,Female,86,200,59,Yes,Yes,61,2024,Punjab,116,Yes
+364,21,Female,98,153,66,No,No,99,2024,Haryana,41,Yes
+365,84,Female,117,208,56,No,Yes,75,2023,Odisha,121,No
+366,25,Female,140,160,112,No,Yes,54,2021,Gujarat,113,Yes
+367,78,Male,146,161,76,Yes,Yes,91,2023,Himachal Pradesh,99,No
+368,34,Female,81,236,134,Yes,Yes,91,2020,Haryana,89,No
+369,66,Male,87,123,144,Yes,No,49,2021,Bihar,103,Yes
+370,28,Female,102,153,44,Yes,No,78,2020,Jammu and Kashmir,144,Yes
+371,33,Female,128,245,65,No,Yes,83,2021,Jammu and Kashmir,90,Yes
+372,81,Female,117,164,41,Yes,No,63,2023,Gujarat,132,No
+373,64,Male,125,136,73,Yes,No,92,2023,Himachal Pradesh,67,Yes
+374,34,Male,89,112,50,Yes,No,66,2023,Tamil Nadu,36,No
+375,51,Male,148,188,85,Yes,Yes,39,2022,Haryana,96,Yes
+376,24,Female,112,161,116,No,No,99,2021,Himachal Pradesh,88,Yes
+377,47,Male,137,149,148,No,No,53,2021,Gujarat,51,Yes
+378,78,Male,89,175,54,Yes,Yes,74,2022,Telangana,105,No
+379,83,Male,140,165,124,Yes,No,66,2023,Uttarakhand,93,No
+380,73,Male,101,140,47,No,Yes,50,2024,Tamil Nadu,89,No
+381,39,Male,139,245,41,No,No,55,2023,Goa,85,No
+382,28,Male,91,200,57,Yes,Yes,60,2022,Assam,50,Yes
+383,62,Male,114,139,68,Yes,No,98,2021,Punjab,34,Yes
+384,54,Female,94,178,119,No,No,43,2020,Maharashtra,125,Yes
+385,39,Female,98,173,48,Yes,Yes,43,2023,Maharashtra,58,No
+386,58,Female,130,193,64,Yes,No,55,2021,Madhya Pradesh,87,Yes
+387,66,Female,94,228,104,No,Yes,35,2021,Rajasthan,39,No
+388,53,Female,113,199,99,No,Yes,62,2020,Haryana,120,No
+389,20,Female,140,113,53,No,No,69,2020,Tamil Nadu,138,No
+390,60,Male,85,147,122,No,No,52,2024,Odisha,67,Yes
+391,38,Male,119,222,48,Yes,Yes,79,2021,Karnataka,30,Yes
+392,70,Male,85,161,123,No,No,38,2020,Chhattisgarh,81,Yes
+393,49,Female,98,218,150,No,No,64,2020,Uttar Pradesh,59,No
+394,83,Female,103,227,79,No,No,64,2023,Haryana,80,Yes
+395,63,Female,116,211,123,No,Yes,73,2021,Kerala,109,No
+396,29,Male,118,171,55,Yes,No,42,2023,Chhattisgarh,143,No
+397,81,Male,84,176,106,Yes,Yes,95,2021,Jharkhand,102,No
+398,25,Female,104,145,81,No,Yes,47,2024,Himachal Pradesh,111,No
+399,60,Female,111,140,126,Yes,No,56,2022,Uttar Pradesh,40,No
+400,44,Female,109,218,112,Yes,Yes,45,2023,Gujarat,47,Yes
+401,82,Male,83,233,85,Yes,Yes,68,2021,Uttar Pradesh,143,Yes
+402,58,Female,125,193,87,No,Yes,32,2020,Haryana,96,Yes
+403,81,Female,80,117,108,No,No,74,2021,Odisha,93,Yes
+404,71,Male,101,230,128,Yes,Yes,30,2023,Tamil Nadu,42,No
+405,54,Male,130,178,72,Yes,Yes,50,2023,Maharashtra,132,Yes
+406,81,Female,108,198,64,No,Yes,46,2023,Madhya Pradesh,51,Yes
+407,42,Female,124,164,97,Yes,Yes,35,2023,Chhattisgarh,107,Yes
+408,82,Male,84,138,150,Yes,No,79,2024,Bihar,126,Yes
+409,26,Female,120,160,109,Yes,Yes,37,2024,Jharkhand,42,No
+410,26,Female,123,217,146,No,No,38,2022,Maharashtra,141,No
+411,56,Male,85,222,59,No,No,74,2023,Karnataka,62,Yes
+412,49,Male,91,171,74,Yes,Yes,43,2020,Assam,112,Yes
+413,37,Female,133,177,59,No,Yes,90,2023,Uttar Pradesh,93,Yes
+414,28,Male,136,145,86,Yes,No,63,2023,Chhattisgarh,53,Yes
+415,53,Male,128,197,139,Yes,No,60,2020,Jammu and Kashmir,111,Yes
+416,75,Female,138,118,131,Yes,Yes,63,2021,Telangana,30,Yes
+417,46,Female,139,197,135,Yes,No,35,2022,Jammu and Kashmir,63,Yes
+418,36,Male,146,209,86,No,No,40,2023,Tamil Nadu,53,No
+419,23,Male,113,143,128,No,No,66,2023,Jammu and Kashmir,74,Yes
+420,78,Female,108,193,93,No,No,43,2023,Punjab,36,Yes
+421,48,Female,134,239,43,No,Yes,43,2020,Kerala,91,No
+422,31,Female,89,213,91,No,Yes,75,2022,Madhya Pradesh,80,No
+423,28,Female,131,121,77,No,Yes,46,2022,Himachal Pradesh,101,No
+424,70,Female,105,179,83,Yes,No,53,2023,Kerala,150,Yes
+425,43,Male,115,217,69,No,No,76,2022,Jammu and Kashmir,97,No
+426,64,Female,129,214,106,No,Yes,78,2020,Kerala,86,No
+427,47,Male,148,241,52,No,Yes,40,2024,Madhya Pradesh,93,No
+428,35,Female,83,124,85,Yes,Yes,42,2021,Madhya Pradesh,114,No
+429,73,Female,148,142,140,No,No,37,2023,Maharashtra,103,Yes
+430,54,Female,86,183,148,Yes,Yes,40,2024,Madhya Pradesh,52,No
+431,49,Female,114,126,47,Yes,Yes,59,2022,Uttar Pradesh,68,No
+432,40,Female,110,131,105,No,No,37,2023,Kerala,96,No
+433,40,Female,83,242,90,No,No,96,2020,Bihar,137,Yes
+434,59,Male,129,189,148,Yes,Yes,75,2023,Uttarakhand,121,Yes
+435,63,Male,132,166,130,No,No,99,2021,Karnataka,144,No
+436,70,Female,87,150,101,Yes,No,55,2022,Gujarat,72,No
+437,61,Female,91,136,46,Yes,No,80,2023,Jharkhand,109,Yes
+438,22,Male,98,196,60,No,Yes,84,2020,Kerala,37,Yes
+439,75,Male,131,242,110,No,No,83,2021,Gujarat,31,Yes
+440,56,Female,80,175,76,Yes,Yes,99,2024,Rajasthan,48,No
+441,30,Male,134,115,74,Yes,Yes,41,2020,Karnataka,119,Yes
+442,56,Female,119,147,108,Yes,No,74,2022,Assam,81,Yes
+443,70,Male,92,236,109,Yes,Yes,38,2022,Karnataka,39+L413:L444,Yes
+444,60,Female,126,150,137,Yes,No,49,2020,Rajasthan,102,No
+445,21,Male,129,248,150,Yes,Yes,54,2023,Rajasthan,84,Yes
+446,74,Male,116,249,48,Yes,Yes,78,2024,Haryana,121,Yes
+447,33,Male,115,121,80,Yes,Yes,70,2022,Madhya Pradesh,122,Yes
+448,48,Female,86,207,66,Yes,No,79,2021,Maharashtra,33,No
+449,28,Male,115,199,60,No,Yes,98,2022,Odisha,93,No
+450,71,Female,123,162,142,Yes,Yes,99,2023,Kerala,44,No
+451,64,Male,99,249,64,Yes,No,49,2022,Madhya Pradesh,121,No
+452,37,Female,109,211,77,Yes,No,55,2020,Karnataka,33,Yes
+453,57,Male,131,235,40,Yes,No,33,2024,Uttarakhand,75,Yes
+454,85,Male,93,235,94,No,No,68,2024,Assam,66,Yes
+455,70,Female,96,245,62,Yes,Yes,70,2021,Goa,145,No
+456,61,Female,87,138,80,No,No,46,2024,Tamil Nadu,69,No
+457,30,Male,83,122,42,Yes,No,88,2022,Madhya Pradesh,89,No
+458,31,Male,142,193,82,Yes,No,40,2022,Maharashtra,121,Yes
+459,58,Female,113,104,98,Yes,Yes,30,2024,Punjab,135,Yes
+460,29,Female,116,185,97,Yes,Yes,61,2020,Assam,106,No
+461,74,Male,104,160,66,No,Yes,72,2024,Telangana,120,Yes
+462,28,Male,113,183,54,No,No,76,2024,Assam,102,Yes
+463,84,Female,124,170,114,No,Yes,34,2022,Goa,117,No
+464,57,Male,131,147,125,Yes,Yes,84,2022,Gujarat,106,No
+465,64,Male,137,151,136,No,Yes,92,2020,Haryana,92,Yes
+466,65,Male,121,205,120,No,Yes,86,2021,Maharashtra,115,No
+467,44,Female,106,145,79,Yes,No,90,2021,Madhya Pradesh,54,No
+468,41,Male,127,174,84,Yes,No,78,2023,Maharashtra,140,Yes
+469,78,Female,148,135,103,Yes,Yes,81,2021,Goa,103,Yes
+470,67,Female,104,123,88,No,No,73,2020,Chhattisgarh,65,No
+471,75,Male,88,224,104,Yes,Yes,90,2021,Haryana,124,No
+472,80,Male,92,135,57,No,Yes,48,2021,Maharashtra,93,Yes
+473,77,Female,104,109,109,Yes,No,62,2020,Tamil Nadu,83,No
+474,31,Male,144,108,150,Yes,No,84,2024,Uttarakhand,130,No
+475,72,Male,108,236,76,Yes,No,70,2020,Haryana,150,No
+476,41,Female,110,111,119,Yes,No,46,2024,Maharashtra,89,Yes
+477,41,Male,105,132,99,Yes,Yes,54,2022,Tamil Nadu,80,No
+478,82,Male,112,242,127,No,Yes,58,2022,Karnataka,116,No
+479,21,Male,93,240,63,Yes,No,89,2022,Odisha,84,No
+480,80,Male,130,219,132,No,No,82,2024,Madhya Pradesh,48,No
+481,28,Female,136,116,150,Yes,No,53,2024,Himachal Pradesh,142,Yes
+482,55,Female,101,171,117,Yes,No,95,2023,Goa,73,No
+483,26,Female,91,148,91,No,No,88,2023,Maharashtra,32,No
+484,51,Female,112,150,146,No,No,92,2022,Telangana,60,No
+485,22,Female,141,209,56,Yes,No,43,2020,Madhya Pradesh,32,No
+486,76,Male,137,154,138,Yes,Yes,57,2020,Telangana,85,No
+487,39,Female,136,168,41,No,Yes,41,2021,Telangana,61,No
+488,57,Female,103,206,78,Yes,No,76,2020,Goa,48,No
+489,80,Female,126,138,89,No,Yes,96,2022,Maharashtra,144,Yes
+490,23,Male,144,100,143,Yes,No,48,2020,Punjab,100,No
+491,27,Female,149,247,52,Yes,No,98,2024,Tamil Nadu,100,Yes
+492,28,Female,81,167,53,No,No,86,2021,Tamil Nadu,61,No
+493,77,Female,131,137,61,Yes,Yes,78,2022,Bihar,43,No
+494,62,Male,126,164,75,Yes,Yes,39,2023,Maharashtra,49,Yes
+495,44,Male,144,108,67,Yes,No,84,2020,Assam,128,Yes
+496,57,Female,82,128,43,No,Yes,69,2020,Goa,135,No
+497,24,Male,112,122,91,Yes,Yes,90,2020,Kerala,58,Yes
+498,50,Male,124,141,72,No,Yes,52,2022,Chhattisgarh,57,No
+499,57,Male,112,212,95,Yes,Yes,75,2022,Goa,119,No
+500,61,Male,138,183,117,No,Yes,67,2020,Uttar Pradesh,33,No
+501,29,Male,141,211,84,Yes,No,78,2023,Rajasthan,127,No
+502,41,Female,150,145,122,No,No,38,2020,Telangana,149,Yes
+503,81,Female,99,227,43,Yes,No,90,2021,Uttar Pradesh,65,Yes
+504,22,Male,140,118,71,Yes,No,73,2020,Jammu and Kashmir,86,Yes
+505,76,Female,86,225,49,No,No,75,2024,Haryana,129,No
+506,54,Female,112,227,43,Yes,No,52,2020,Uttarakhand,57,No
+507,57,Male,146,201,138,No,Yes,67,2021,Madhya Pradesh,107,No
+508,58,Male,145,117,58,Yes,No,68,2022,Uttar Pradesh,98,No
+509,72,Male,133,112,93,Yes,No,45,2021,Goa,107,Yes
+510,80,Male,144,105,145,No,No,86,2020,Punjab,141,Yes
+511,64,Male,130,138,43,No,No,76,2020,Assam,83,Yes
+512,68,Female,110,139,116,Yes,No,54,2020,Uttar Pradesh,95,Yes
+513,75,Female,106,133,63,Yes,Yes,85,2024,Telangana,41,No
+514,67,Female,127,159,102,No,Yes,59,2023,Madhya Pradesh,141,Yes
+515,72,Female,124,142,147,No,Yes,36,2023,Himachal Pradesh,36,No
+516,32,Female,121,175,86,No,Yes,82,2021,Rajasthan,136,Yes
+517,25,Male,97,151,145,No,No,74,2023,Jharkhand,125,No
+518,26,Female,139,209,54,No,No,58,2022,Haryana,113,Yes
+519,50,Male,113,185,97,Yes,Yes,63,2024,Gujarat,55,No
+520,35,Female,119,135,106,No,No,62,2023,Telangana,86,No
+521,76,Female,109,189,115,Yes,Yes,42,2020,Haryana,95,Yes
+522,79,Female,110,136,122,No,Yes,94,2021,Jammu and Kashmir,69,Yes
+523,45,Female,106,196,72,No,No,92,2023,Uttarakhand,95,Yes
+524,33,Female,135,189,142,No,No,59,2024,Jammu and Kashmir,73,No
+525,74,Female,102,166,132,No,No,81,2021,Himachal Pradesh,84,Yes
+526,26,Male,125,228,114,Yes,No,94,2023,Punjab,71,Yes
+527,82,Male,107,127,116,No,Yes,30,2023,Himachal Pradesh,131,No
+528,27,Female,106,147,40,Yes,Yes,95,2023,Odisha,75,Yes
+529,59,Male,92,226,135,Yes,Yes,45,2023,Karnataka,56,No
+530,36,Female,121,230,117,Yes,Yes,86,2021,Tamil Nadu,97,No
+531,59,Female,113,210,88,Yes,Yes,69,2024,Jammu and Kashmir,32,Yes
+532,36,Male,120,250,55,No,No,93,2021,Maharashtra,107,Yes
+533,70,Male,88,107,50,Yes,No,45,2021,Chhattisgarh,110,Yes
+534,83,Female,119,206,44,Yes,No,52,2024,Assam,112,No
+535,20,Female,116,117,42,No,No,37,2021,Assam,121,Yes
+536,73,Male,97,233,51,Yes,No,48,2020,Tamil Nadu,35,No
+537,37,Female,89,179,131,No,Yes,49,2024,Himachal Pradesh,123,No
+538,48,Male,146,104,46,Yes,No,87,2023,Tamil Nadu,34,No
+539,83,Female,107,158,106,No,No,77,2020,Gujarat,55,Yes
+540,56,Male,113,150,95,Yes,Yes,86,2023,Haryana,80,No
+541,76,Male,144,243,135,Yes,No,31,2023,Jammu and Kashmir,44,No
+542,46,Male,84,250,47,Yes,No,67,2020,Jammu and Kashmir,118,Yes
+543,21,Male,125,163,110,No,Yes,49,2020,Goa,132,No
+544,85,Female,124,206,80,Yes,Yes,51,2020,Gujarat,132,Yes
+545,27,Male,101,120,96,No,No,60,2020,Tamil Nadu,142,Yes
+546,47,Female,107,232,137,No,No,59,2022,Tamil Nadu,139,No
+547,63,Female,121,189,108,Yes,No,32,2022,Madhya Pradesh,116,Yes
+548,26,Female,135,170,115,No,No,92,2022,Odisha,95,Yes
+549,57,Male,103,105,101,No,Yes,50,2022,Goa,30,Yes
+550,47,Female,111,240,139,No,No,39,2023,Himachal Pradesh,44,No
+551,35,Female,147,176,84,No,No,35,2021,Kerala,84,No
+552,82,Female,98,176,106,No,No,66,2023,Gujarat,90,No
+553,56,Female,94,117,109,Yes,Yes,47,2020,Karnataka,82,No
+554,49,Male,126,233,116,Yes,Yes,59,2024,Gujarat,62,Yes
+555,48,Male,139,156,64,Yes,No,99,2020,Assam,105,No
+556,26,Female,132,216,46,No,No,41,2022,Kerala,95,No
+557,73,Female,81,233,63,Yes,Yes,90,2023,Uttarakhand,133,Yes
+558,65,Male,119,141,87,Yes,Yes,36,2024,Madhya Pradesh,92,Yes
+559,34,Female,119,139,96,No,Yes,76,2022,Bihar,148,No
+560,25,Male,89,182,47,No,No,67,2021,Tamil Nadu,141,No
+561,53,Female,139,156,79,No,No,55,2024,Karnataka,75,No
+562,71,Male,80,182,97,Yes,No,50,2022,Uttarakhand,87,No
+563,47,Male,101,208,78,No,Yes,62,2024,Maharashtra,93,Yes
+564,56,Male,90,225,150,Yes,No,32,2024,Punjab,63,No
+565,52,Female,87,146,95,Yes,Yes,87,2024,Uttarakhand,132,No
+566,23,Male,89,238,135,Yes,Yes,47,2022,Tamil Nadu,111,Yes
+567,33,Female,150,174,107,No,No,36,2024,Assam,55,Yes
+568,32,Male,109,161,76,Yes,Yes,83,2022,Uttar Pradesh,70,Yes
+569,23,Male,119,134,68,Yes,Yes,82,2024,Uttar Pradesh,126,Yes
+570,27,Male,136,140,67,Yes,No,32,2023,Jammu and Kashmir,73,No
+571,56,Male,131,195,63,No,No,31,2022,Telangana,74,No
+572,72,Male,92,211,83,Yes,Yes,83,2024,Assam,74,No
+573,23,Female,121,133,127,No,No,46,2023,Haryana,144,No
+574,47,Male,109,131,140,Yes,No,59,2022,Punjab,109,Yes
+575,27,Male,134,216,85,No,Yes,35,2024,Punjab,124,Yes
+576,71,Male,86,114,103,Yes,No,74,2021,Tamil Nadu,42,Yes
+577,46,Male,128,139,48,No,Yes,74,2021,Maharashtra,77,No
+578,74,Male,93,224,82,Yes,No,70,2023,Odisha,83,No
+579,82,Male,121,103,101,No,Yes,75,2020,Assam,38,No
+580,27,Female,100,225,139,Yes,Yes,100,2021,Tamil Nadu,141,No
+581,66,Male,139,183,143,Yes,Yes,84,2023,Maharashtra,41,Yes
+582,31,Female,132,149,149,No,No,63,2022,Rajasthan,122,No
+583,36,Male,120,209,93,No,No,63,2023,Madhya Pradesh,85,No
+584,25,Male,133,151,118,No,No,64,2021,Maharashtra,85,No
+585,51,Male,137,173,41,No,Yes,76,2023,Karnataka,120,Yes
+586,53,Male,129,180,93,No,No,91,2022,Karnataka,95,No
+587,69,Female,95,165,80,No,Yes,49,2021,Maharashtra,124,No
+588,34,Female,93,160,128,Yes,Yes,58,2023,Karnataka,103,No
+589,60,Female,119,173,138,Yes,No,31,2022,Telangana,84,Yes
+590,60,Female,116,216,63,Yes,Yes,82,2020,Haryana,143,No
+591,81,Female,100,245,104,Yes,Yes,51,2021,Haryana,95,No
+592,47,Female,147,152,80,No,Yes,61,2020,Goa,120,Yes
+593,61,Male,123,155,110,No,No,71,2022,Karnataka,125,No
+594,48,Male,110,191,91,Yes,No,47,2021,Maharashtra,125,No
+595,22,Male,122,113,64,No,Yes,81,2022,Karnataka,58,No
+596,77,Female,121,230,139,Yes,No,74,2023,Karnataka,129,No
+597,45,Female,95,106,96,No,No,33,2024,Himachal Pradesh,41,No
+598,71,Female,89,214,81,No,Yes,65,2024,Gujarat,53,No
+599,65,Female,117,227,50,Yes,Yes,47,2020,Haryana,84,Yes
+600,25,Female,139,132,99,Yes,Yes,56,2022,Assam,42,No
+601,80,Female,95,203,70,No,No,62,2024,Himachal Pradesh,144,No
+602,36,Female,128,148,149,No,Yes,71,2023,Himachal Pradesh,35,Yes
+603,49,Female,94,200,104,No,Yes,87,2022,Madhya Pradesh,143,No
+604,75,Female,141,215,144,Yes,No,53,2023,Haryana,104,No
+605,58,Female,126,144,117,Yes,Yes,58,2023,Uttar Pradesh,111,No
+606,68,Male,140,184,63,Yes,No,63,2023,Madhya Pradesh,74,No
+607,69,Male,90,183,83,Yes,Yes,64,2021,Punjab,30,No
+608,61,Male,91,249,122,No,No,79,2020,Odisha,141,No
+609,65,Female,84,194,113,No,Yes,31,2021,Assam,82,Yes
+610,23,Female,99,173,73,Yes,No,65,2022,Punjab,59,Yes
+611,58,Male,118,205,72,Yes,No,98,2023,Goa,40,No
+612,79,Female,81,110,64,No,No,67,2021,Rajasthan,72,Yes
+613,20,Female,82,238,108,No,No,32,2020,Rajasthan,90,Yes
+614,22,Female,143,114,107,No,Yes,82,2022,Madhya Pradesh,103,Yes
+615,74,Male,140,106,145,No,Yes,46,2023,Assam,68,Yes
+616,77,Male,140,161,146,Yes,No,30,2021,Chhattisgarh,99,Yes
+617,67,Male,146,104,121,No,No,80,2021,Maharashtra,98,No
+618,76,Male,81,121,82,No,Yes,37,2020,Haryana,75,Yes
+619,45,Female,84,182,106,No,Yes,33,2023,Bihar,89,Yes
+620,61,Male,83,150,60,Yes,Yes,89,2023,Himachal Pradesh,129,No
+621,57,Female,134,211,95,No,No,33,2020,Madhya Pradesh,43,Yes
+622,38,Male,125,178,47,Yes,Yes,69,2021,Kerala,130,No
+623,42,Male,123,102,45,Yes,Yes,56,2023,Himachal Pradesh,85,Yes
+624,42,Male,80,125,132,No,Yes,62,2024,Haryana,130,Yes
+625,59,Male,96,224,92,No,Yes,87,2020,Himachal Pradesh,148,No
+626,22,Male,112,123,51,No,Yes,77,2024,Chhattisgarh,87,Yes
+627,30,Male,144,120,121,Yes,Yes,30,2024,Gujarat,121,Yes
+628,39,Male,146,138,113,Yes,No,78,2024,Assam,102,No
+629,39,Female,92,190,62,Yes,No,60,2023,Punjab,121,No
+630,68,Female,144,176,112,No,Yes,36,2021,Madhya Pradesh,30,Yes
+631,53,Female,142,146,43,Yes,Yes,70,2021,Tamil Nadu,86,Yes
+632,33,Male,146,202,145,Yes,Yes,30,2021,Uttarakhand,107,No
+633,54,Female,127,167,115,Yes,Yes,71,2020,Rajasthan,43,Yes
+634,48,Male,136,112,72,No,No,47,2022,Maharashtra,137,Yes
+635,66,Male,109,128,61,No,Yes,50,2020,Jharkhand,62,Yes
+636,70,Female,119,249,122,Yes,No,92,2021,Gujarat,30,Yes
+637,58,Female,138,145,67,No,No,90,2021,Rajasthan,68,No
+638,72,Male,103,122,57,Yes,No,65,2022,Kerala,110,No
+639,63,Female,106,202,110,Yes,No,77,2021,Telangana,95,No
+640,76,Male,94,120,125,No,No,32,2022,Assam,31,Yes
+641,36,Female,88,154,140,No,No,73,2023,Kerala,118,Yes
+642,65,Female,87,146,69,Yes,No,52,2021,Tamil Nadu,119,No
+643,31,Female,96,181,128,No,No,31,2022,Maharashtra,111,No
+644,29,Male,136,219,62,Yes,No,73,2022,Madhya Pradesh,42,No
+645,61,Female,127,118,72,Yes,No,88,2021,Chhattisgarh,143,No
+646,46,Female,105,101,148,Yes,Yes,32,2022,Uttarakhand,94,No
+647,29,Female,84,217,108,Yes,No,66,2024,Tamil Nadu,57,No
+648,30,Male,114,173,114,Yes,Yes,61,2022,Bihar,120,Yes
+649,34,Male,135,239,150,Yes,No,87,2022,Madhya Pradesh,95,Yes
+650,37,Female,88,214,149,No,No,68,2022,Uttarakhand,33,No
+651,49,Female,132,126,128,Yes,No,60,2023,Uttar Pradesh,73,No
+652,45,Male,84,212,122,No,No,30,2024,Telangana,107,No
+653,63,Female,86,216,95,No,Yes,81,2021,Jammu and Kashmir,105,Yes
+654,40,Female,84,198,134,Yes,Yes,58,2020,Uttar Pradesh,81,Yes
+655,37,Female,123,187,93,Yes,No,100,2024,Jharkhand,106,Yes
+656,32,Female,95,147,88,No,No,95,2023,Madhya Pradesh,65,No
+657,79,Male,118,234,53,No,No,45,2023,Bihar,94,Yes
+658,63,Male,115,234,135,No,Yes,71,2023,Assam,147,Yes
+659,45,Female,99,185,50,No,No,62,2020,Uttar Pradesh,102,Yes
+660,67,Female,87,203,119,Yes,No,44,2022,Jammu and Kashmir,108,No
+661,68,Female,80,103,122,Yes,Yes,80,2023,Gujarat,68,No
+662,23,Female,118,166,45,No,Yes,35,2020,Uttarakhand,53,Yes
+663,52,Male,105,153,117,Yes,No,82,2023,Goa,132,Yes
+664,45,Male,105,150,91,No,No,52,2023,Assam,74,No
+665,46,Male,97,121,130,No,Yes,68,2023,Karnataka,120,No
+666,48,Female,127,142,57,Yes,Yes,73,2024,Rajasthan,44,No
+667,45,Male,83,240,149,Yes,Yes,47,2020,Punjab,123,Yes
+668,68,Male,136,167,55,Yes,No,82,2024,Kerala,140,No
+669,38,Female,111,216,62,Yes,Yes,62,2024,Chhattisgarh,116,Yes
+670,38,Female,100,155,50,Yes,Yes,65,2022,Haryana,51,No
+671,43,Male,80,244,56,Yes,Yes,86,2020,Jharkhand,105,Yes
+672,74,Female,148,215,88,No,Yes,31,2023,Maharashtra,76,Yes
+673,73,Female,146,114,76,Yes,Yes,99,2023,Chhattisgarh,48,No
+674,69,Male,99,225,111,Yes,No,30,2024,Chhattisgarh,86,No
+675,57,Male,129,121,148,No,No,66,2021,Assam,71,No
+676,74,Female,145,241,122,No,Yes,65,2022,Odisha,139,No
+677,84,Male,124,107,112,No,No,54,2021,Uttar Pradesh,56,Yes
+678,45,Male,149,135,55,Yes,Yes,53,2023,Tamil Nadu,108,Yes
+679,63,Male,134,211,105,Yes,No,45,2020,Assam,33,No
+680,34,Male,91,121,86,No,Yes,83,2020,Jharkhand,41,No
+681,68,Male,117,148,102,Yes,No,74,2021,Punjab,109,Yes
+682,26,Male,134,212,68,Yes,No,44,2023,Tamil Nadu,87,No
+683,33,Female,96,166,124,No,Yes,56,2024,Chhattisgarh,32,Yes
+684,80,Male,84,165,94,Yes,No,61,2024,Jammu and Kashmir,142,No
+685,57,Male,86,207,130,No,Yes,63,2024,Chhattisgarh,129,Yes
+686,76,Female,125,145,60,Yes,No,55,2022,Tamil Nadu,101,Yes
+687,79,Female,110,157,85,Yes,Yes,50,2021,Jammu and Kashmir,122,Yes
+688,76,Male,131,206,106,No,Yes,33,2023,Chhattisgarh,150,No
+689,21,Female,83,100,41,No,No,97,2020,Karnataka,142,Yes
+690,63,Female,132,234,129,Yes,No,72,2022,Assam,60,Yes
+691,31,Male,120,101,80,No,No,89,2022,Telangana,145,Yes
+692,27,Male,105,179,59,No,Yes,65,2021,Madhya Pradesh,147,Yes
+693,84,Male,129,119,84,No,Yes,36,2024,Himachal Pradesh,94,Yes
+694,59,Female,107,101,60,Yes,Yes,43,2022,Jharkhand,97,Yes
+695,46,Male,126,106,43,Yes,Yes,61,2021,Karnataka,120,Yes
+696,56,Male,106,122,40,Yes,Yes,53,2021,Odisha,128,No
+697,75,Male,144,242,112,No,No,47,2022,Haryana,73,No
+698,73,Male,103,170,149,No,No,100,2023,Karnataka,118,No
+699,31,Male,133,107,89,No,No,75,2020,Rajasthan,90,Yes
+700,34,Male,94,163,132,Yes,No,70,2020,Odisha,119,Yes
+701,26,Male,94,139,70,No,No,50,2024,Kerala,72,No
+702,26,Male,97,176,140,No,No,45,2020,Uttarakhand,43,No
+703,35,Male,102,167,123,No,Yes,51,2022,Rajasthan,133,No
+704,74,Female,94,153,101,No,No,33,2023,Uttar Pradesh,126,Yes
+705,64,Female,100,164,79,No,Yes,35,2023,Punjab,104,Yes
+706,42,Female,130,105,59,Yes,Yes,82,2021,Punjab,138,Yes
+707,24,Female,88,149,137,No,Yes,47,2024,Jammu and Kashmir,146,Yes
+708,24,Female,123,130,82,Yes,Yes,65,2023,Odisha,127,No
+709,58,Male,106,140,90,Yes,Yes,66,2021,Himachal Pradesh,98,No
+710,44,Male,131,191,138,Yes,Yes,84,2023,Telangana,34,Yes
+711,79,Male,80,152,50,Yes,No,84,2023,Punjab,113,No
+712,29,Male,139,121,130,Yes,No,98,2022,Uttarakhand,148,Yes
+713,23,Female,122,119,86,Yes,Yes,83,2024,Karnataka,32,Yes
+714,51,Female,150,121,63,No,Yes,43,2021,Gujarat,70,No
+715,35,Male,101,221,104,Yes,Yes,49,2021,Punjab,53,Yes
+716,64,Male,108,207,78,Yes,Yes,35,2022,Assam,135,No
+717,84,Female,125,240,58,No,No,97,2022,Goa,133,Yes
+718,83,Male,127,222,71,No,No,33,2024,Tamil Nadu,57,No
+719,63,Male,105,166,71,Yes,No,56,2022,Bihar,92,Yes
+720,50,Female,83,189,99,No,No,73,2023,Odisha,111,No
+721,77,Female,116,248,131,Yes,Yes,54,2023,Jharkhand,84,No
+722,85,Male,140,129,68,No,No,82,2020,Haryana,109,Yes
+723,66,Male,138,130,136,Yes,Yes,91,2021,Assam,98,Yes
+724,77,Female,134,132,109,No,No,85,2024,Gujarat,87,No
+725,83,Male,104,229,120,Yes,Yes,85,2024,Uttar Pradesh,97,No
+726,48,Male,104,114,107,Yes,Yes,49,2020,Maharashtra,115,No
+727,44,Male,122,189,150,Yes,Yes,46,2021,Telangana,103,Yes
+728,64,Male,148,142,111,No,Yes,41,2024,Kerala,42,Yes
+729,44,Male,150,106,84,Yes,Yes,40,2022,Punjab,108,Yes
+730,29,Male,131,197,136,No,Yes,66,2024,Odisha,146,Yes
+731,34,Female,127,138,53,Yes,No,58,2023,Chhattisgarh,90,No
+732,32,Female,139,188,94,Yes,Yes,67,2024,Madhya Pradesh,143,Yes
+733,78,Female,118,126,84,Yes,No,60,2021,Gujarat,53,Yes
+734,28,Male,121,237,98,No,Yes,71,2022,Assam,71,No
+735,59,Female,92,137,59,Yes,No,68,2020,Chhattisgarh,70,No
+736,20,Male,113,246,111,No,Yes,95,2021,Haryana,74,No
+737,79,Female,118,198,118,No,Yes,51,2021,Maharashtra,58,No
+738,30,Male,82,149,78,No,Yes,58,2022,Jammu and Kashmir,48,No
+739,51,Male,143,115,111,No,Yes,63,2023,Karnataka,134,No
+740,32,Male,118,197,46,No,Yes,87,2023,Haryana,40,No
+741,37,Male,81,218,73,No,No,48,2023,Madhya Pradesh,138,Yes
+742,49,Male,128,219,96,Yes,Yes,91,2020,Goa,95,Yes
+743,53,Male,134,174,112,Yes,Yes,100,2021,Tamil Nadu,30,Yes
+744,50,Female,126,112,128,No,No,51,2022,Jharkhand,106,Yes
+745,48,Female,102,162,115,Yes,Yes,69,2022,Chhattisgarh,69,Yes
+746,83,Female,82,171,92,No,Yes,49,2024,Goa,108,Yes
+747,83,Male,144,156,82,Yes,No,57,2021,Jammu and Kashmir,83,No
+748,69,Male,149,150,45,Yes,No,45,2022,Karnataka,64,Yes
+749,65,Female,91,184,81,No,No,86,2024,Karnataka,111,Yes
+750,59,Male,134,135,128,No,No,69,2022,Jammu and Kashmir,92,Yes
+751,44,Male,89,130,41,Yes,No,100,2022,Jharkhand,102,No
+752,80,Male,144,143,106,Yes,Yes,34,2023,Karnataka,143,Yes
+753,84,Male,142,150,106,Yes,Yes,60,2024,Maharashtra,36,Yes
+754,51,Male,129,201,150,Yes,Yes,77,2020,Uttar Pradesh,124,No
+755,56,Male,103,188,119,Yes,Yes,34,2022,Punjab,72,No
+756,28,Male,129,125,79,No,Yes,61,2022,Madhya Pradesh,91,Yes
+757,81,Female,98,120,109,Yes,No,45,2022,Gujarat,83,Yes
+758,40,Male,85,172,74,No,No,58,2022,Telangana,55,No
+759,49,Male,109,103,129,Yes,No,94,2020,Maharashtra,84,No
+760,81,Female,114,111,79,Yes,Yes,98,2024,Odisha,111,No
+761,69,Male,102,198,53,Yes,No,51,2024,Kerala,88,Yes
+762,53,Male,85,196,48,No,No,41,2021,Kerala,94,Yes
+763,53,Female,80,225,76,Yes,No,83,2024,Odisha,51,Yes
+764,63,Male,81,130,145,No,No,35,2022,Assam,88,Yes
+765,84,Male,127,238,84,Yes,Yes,35,2021,Maharashtra,61,No
+766,82,Male,139,167,150,No,Yes,82,2023,Chhattisgarh,150,Yes
+767,50,Male,114,115,114,No,No,70,2024,Madhya Pradesh,43,Yes
+768,64,Female,150,173,121,Yes,No,51,2024,Goa,139,No
+769,32,Female,144,234,134,No,No,77,2022,Punjab,101,Yes
+770,85,Female,111,176,74,No,Yes,60,2020,Maharashtra,62,No
+771,53,Female,147,219,64,Yes,Yes,83,2023,Kerala,50,No
+772,62,Male,150,215,103,Yes,Yes,76,2023,Goa,72,Yes
+773,68,Female,141,173,55,Yes,Yes,41,2020,Jammu and Kashmir,52,No
+774,44,Female,124,181,127,Yes,No,90,2020,Odisha,99,Yes
+775,68,Female,116,151,132,No,No,64,2020,Goa,42,Yes
+776,74,Female,108,213,65,No,Yes,78,2023,Madhya Pradesh,115,No
+777,36,Male,116,151,119,Yes,No,66,2022,Jammu and Kashmir,138,No
+778,64,Female,140,114,92,No,No,43,2020,Assam,31,No
+779,30,Female,103,111,143,Yes,No,61,2020,Telangana,51,Yes
+780,41,Male,124,229,51,Yes,Yes,45,2020,Telangana,89,No
+781,48,Female,91,128,53,Yes,No,68,2024,Goa,114,No
+782,64,Female,145,175,61,No,No,50,2022,Jharkhand,64,No
+783,33,Female,90,108,101,Yes,No,50,2020,Karnataka,138,Yes
+784,56,Male,139,214,46,No,No,99,2024,Assam,103,Yes
+785,52,Male,120,120,124,No,Yes,48,2021,Rajasthan,37,Yes
+786,68,Female,83,184,105,No,No,87,2022,Rajasthan,50,Yes
+787,20,Male,98,212,78,Yes,No,90,2023,Gujarat,79,Yes
+788,45,Male,127,228,139,Yes,Yes,65,2022,Punjab,122,No
+789,20,Male,85,173,54,Yes,No,47,2021,Bihar,41,No
+790,52,Male,98,112,49,No,Yes,35,2024,Bihar,136,No
+791,25,Female,127,156,57,Yes,Yes,88,2022,Kerala,131,Yes
+792,44,Female,136,174,44,No,No,62,2021,Bihar,111,Yes
+793,81,Female,90,202,106,Yes,Yes,34,2024,Telangana,83,Yes
+794,31,Male,120,121,77,Yes,No,46,2022,Gujarat,64,Yes
+795,65,Female,116,201,128,Yes,No,87,2020,Haryana,121,No
+796,71,Female,146,166,75,No,No,48,2020,Uttarakhand,64,No
+797,55,Male,100,121,80,No,Yes,40,2022,Assam,132,No
+798,38,Female,107,120,117,No,Yes,83,2022,Bihar,48,No
+799,21,Male,132,100,133,Yes,No,70,2021,Haryana,47,Yes
+800,42,Female,136,148,119,Yes,Yes,47,2023,Bihar,109,Yes
+801,64,Male,87,207,148,No,No,65,2024,Kerala,133,Yes
+802,21,Female,139,198,111,No,No,96,2024,Telangana,117,No
+803,38,Male,85,185,106,Yes,Yes,75,2021,Maharashtra,141,No
+804,59,Female,146,214,84,No,No,70,2020,Madhya Pradesh,147,No
+805,55,Male,120,164,110,No,Yes,94,2023,Jharkhand,144,Yes
+806,32,Female,120,166,76,No,Yes,91,2020,Gujarat,81,No
+807,84,Male,89,121,74,Yes,No,43,2020,Chhattisgarh,123,No
+808,22,Male,124,246,109,Yes,Yes,76,2020,Uttar Pradesh,94,Yes
+809,42,Male,146,172,133,No,No,75,2020,Chhattisgarh,47,Yes
+810,31,Female,115,157,113,Yes,No,88,2022,Haryana,39,Yes
+811,76,Female,99,173,87,No,Yes,90,2023,Himachal Pradesh,138,No
+812,74,Female,106,249,100,Yes,No,76,2020,Telangana,106,No
+813,64,Female,85,184,42,Yes,No,56,2023,Rajasthan,107,No
+814,59,Female,113,142,135,No,No,95,2021,Bihar,35,No
+815,48,Male,146,183,103,No,Yes,57,2020,Kerala,38,No
+816,33,Female,108,217,119,Yes,Yes,94,2021,Punjab,38,No
+817,56,Female,88,176,67,No,Yes,88,2021,Maharashtra,105,Yes
+818,35,Male,108,111,87,Yes,Yes,99,2020,Tamil Nadu,50,No
+819,21,Female,130,204,135,Yes,No,44,2023,Gujarat,112,Yes
+820,30,Male,80,223,51,No,Yes,49,2021,Punjab,96,No
+821,35,Male,147,171,104,Yes,Yes,43,2024,Punjab,78,Yes
+822,39,Female,82,198,97,No,No,79,2022,Uttar Pradesh,53,No
+823,51,Male,86,139,74,Yes,Yes,39,2022,Telangana,120,Yes
+824,30,Female,124,173,81,Yes,No,51,2020,Jharkhand,123,No
+825,60,Female,98,111,103,Yes,No,60,2023,Karnataka,133,No
+826,42,Female,148,153,129,Yes,Yes,82,2022,Punjab,143,Yes
+827,30,Female,130,177,142,Yes,No,74,2023,Maharashtra,63,Yes
+828,38,Male,128,118,108,No,Yes,39,2022,Himachal Pradesh,103,No
+829,48,Male,88,111,68,Yes,No,47,2020,Telangana,69,No
+830,79,Female,107,157,134,No,No,56,2022,Madhya Pradesh,98,No
+831,56,Male,86,159,141,Yes,Yes,66,2024,Kerala,117,Yes
+832,42,Male,83,172,116,No,Yes,46,2022,Madhya Pradesh,134,No
+833,78,Female,115,104,121,Yes,No,92,2024,Odisha,62,No
+834,56,Female,148,213,148,No,Yes,74,2021,Chhattisgarh,116,No
+835,59,Female,126,113,73,No,Yes,75,2022,Rajasthan,75,Yes
+836,61,Female,150,122,112,Yes,Yes,75,2021,Maharashtra,36,Yes
+837,46,Female,150,241,76,No,No,32,2021,Haryana,125,No
+838,83,Male,143,170,56,No,Yes,83,2024,Haryana,131,No
+839,51,Female,138,174,73,Yes,Yes,43,2022,Maharashtra,77,Yes
+840,40,Female,143,238,79,No,No,64,2020,Gujarat,135,Yes
+841,78,Male,139,167,60,Yes,No,97,2022,Gujarat,65,Yes
+842,66,Female,116,186,144,Yes,Yes,97,2024,Uttar Pradesh,115,Yes
+843,80,Female,120,141,46,Yes,Yes,95,2021,Assam,103,No
+844,22,Female,114,124,138,Yes,No,86,2021,Kerala,104,Yes
+845,55,Male,119,155,113,Yes,Yes,60,2021,Tamil Nadu,77,No
+846,43,Male,92,177,148,Yes,Yes,34,2024,Telangana,149,No
+847,69,Male,129,211,62,Yes,No,33,2020,Uttar Pradesh,82,No
+848,47,Male,125,132,143,Yes,No,66,2024,Rajasthan,44,Yes
+849,78,Female,138,219,137,No,Yes,89,2020,Punjab,136,Yes
+850,50,Female,146,224,69,No,Yes,98,2024,Goa,141,No
+851,83,Female,87,124,61,Yes,No,77,2022,Tamil Nadu,56,No
+852,53,Male,98,235,41,Yes,Yes,52,2020,Tamil Nadu,104,No
+853,57,Male,92,193,54,Yes,No,90,2022,Karnataka,35,No
+854,21,Male,86,242,42,Yes,No,56,2020,Assam,133,No
+855,66,Male,103,130,136,Yes,Yes,72,2022,Jharkhand,90,Yes
+856,70,Female,138,117,43,Yes,No,85,2020,Uttarakhand,79,Yes
+857,48,Female,121,237,54,Yes,No,58,2021,Jammu and Kashmir,125,Yes
+858,76,Female,82,237,59,No,No,86,2020,Rajasthan,57,No
+859,54,Male,102,126,123,Yes,Yes,57,2022,Himachal Pradesh,123,Yes
+860,43,Male,95,225,50,Yes,Yes,44,2021,Jharkhand,89,Yes
+861,26,Male,97,169,123,No,Yes,98,2024,Tamil Nadu,73,Yes
+862,45,Female,98,137,129,No,Yes,93,2023,Gujarat,64,No
+863,81,Male,133,129,113,No,No,87,2020,Kerala,88,Yes
+864,80,Female,124,133,99,No,Yes,56,2022,Madhya Pradesh,30,Yes
+865,76,Female,108,139,61,No,No,38,2020,Karnataka,115,No
+866,26,Male,150,163,128,No,No,77,2022,Bihar,101,Yes
+867,77,Male,131,191,82,Yes,No,71,2022,Haryana,131,No
+868,43,Male,137,231,138,No,No,62,2022,Uttarakhand,75,Yes
+869,65,Male,135,112,46,Yes,Yes,99,2020,Jharkhand,90,Yes
+870,36,Female,117,225,67,Yes,Yes,76,2022,Maharashtra,84,No
+871,21,Male,111,118,57,Yes,Yes,31,2024,Rajasthan,87,Yes
+872,71,Male,115,173,115,Yes,No,34,2024,Karnataka,64,No
+873,33,Female,87,119,130,Yes,Yes,30,2023,Madhya Pradesh,141,No
+874,28,Male,80,243,102,Yes,Yes,89,2021,Goa,113,No
+875,48,Female,141,202,113,Yes,No,36,2022,Uttar Pradesh,123,Yes
+876,75,Female,86,143,97,Yes,Yes,79,2024,Gujarat,137,No
+877,49,Female,88,242,74,Yes,No,63,2020,Himachal Pradesh,38,No
+878,24,Male,112,214,149,Yes,No,85,2021,Odisha,80,No
+879,52,Female,134,235,115,No,Yes,99,2023,Jharkhand,63,Yes
+880,46,Male,145,114,101,Yes,No,66,2022,Odisha,119,Yes
+881,38,Female,117,243,121,Yes,No,97,2021,Maharashtra,66,Yes
+882,24,Male,84,211,116,No,No,51,2022,Himachal Pradesh,149,Yes
+883,24,Male,103,168,112,Yes,No,57,2024,Bihar,84,Yes
+884,38,Female,105,247,120,No,No,40,2024,Uttar Pradesh,104,No
+885,74,Male,105,155,143,No,Yes,93,2022,Uttarakhand,81,Yes
+886,74,Male,147,152,60,Yes,No,62,2020,Kerala,42,No
+887,25,Female,80,147,108,Yes,Yes,39,2024,Telangana,141,No
+888,62,Male,137,176,43,No,No,100,2021,Jammu and Kashmir,59,Yes
+889,69,Female,125,202,63,No,No,62,2024,Jammu and Kashmir,98,No
+890,69,Female,138,139,40,Yes,Yes,65,2023,Himachal Pradesh,105,No
+891,76,Male,135,189,93,Yes,No,43,2024,Madhya Pradesh,134,Yes
+892,30,Female,141,225,111,Yes,No,71,2020,Punjab,84,Yes
+893,37,Female,125,192,90,No,Yes,48,2021,Bihar,74,No
+894,47,Female,150,125,95,Yes,No,36,2022,Goa,115,Yes
+895,60,Male,140,178,137,No,No,40,2020,Rajasthan,130,Yes
+896,36,Female,133,191,117,Yes,Yes,30,2024,Kerala,143,Yes
+897,53,Female,145,111,104,Yes,No,37,2020,Assam,81,No
+898,63,Male,123,101,74,Yes,Yes,80,2024,Karnataka,31,No
+899,77,Male,87,127,116,Yes,Yes,33,2023,Telangana,145,Yes
+900,49,Male,116,200,57,Yes,No,84,2020,Uttarakhand,109,Yes
+901,76,Male,131,174,121,Yes,Yes,39,2023,Gujarat,81,Yes
+902,50,Female,106,227,119,Yes,No,89,2021,Punjab,79,Yes
+903,59,Female,144,213,150,Yes,Yes,77,2023,Uttarakhand,98,No
+904,41,Male,110,191,111,Yes,No,76,2021,Bihar,101,Yes
+905,37,Female,94,181,43,Yes,Yes,35,2023,Punjab,67,Yes
+906,81,Female,91,145,112,No,No,60,2022,Gujarat,138,No
+907,36,Male,139,130,41,Yes,No,71,2020,Uttarakhand,117,No
+908,39,Male,144,174,65,Yes,No,69,2021,Telangana,136,No
+909,80,Female,138,238,139,No,Yes,49,2022,Madhya Pradesh,125,Yes
+910,29,Female,136,127,114,No,Yes,44,2024,Rajasthan,130,No
+911,80,Female,127,166,118,No,Yes,30,2024,Odisha,116,Yes
+912,21,Male,103,167,59,Yes,Yes,100,2023,Rajasthan,80,Yes
+913,82,Female,89,241,115,Yes,Yes,73,2021,Telangana,105,Yes
+914,64,Female,127,102,83,No,No,73,2024,Uttarakhand,48,No
+915,55,Female,85,101,121,No,Yes,88,2023,Rajasthan,147,Yes
+916,55,Male,104,109,92,Yes,No,87,2021,Haryana,85,Yes
+917,48,Female,116,126,70,Yes,No,81,2023,Rajasthan,134,Yes
+918,56,Female,135,192,73,Yes,Yes,42,2023,Haryana,39,Yes
+919,36,Female,94,224,103,Yes,Yes,49,2020,Punjab,123,No
+920,43,Female,126,231,96,Yes,Yes,64,2020,Uttar Pradesh,63,No
+921,34,Female,141,243,116,Yes,Yes,67,2022,Rajasthan,50,No
+922,46,Male,144,156,142,Yes,Yes,95,2023,Odisha,63,No
+923,55,Male,146,100,96,Yes,Yes,83,2020,Jharkhand,118,Yes
+924,24,Male,81,157,46,No,No,87,2021,Chhattisgarh,48,Yes
+925,27,Female,86,199,98,Yes,Yes,74,2024,Haryana,79,No
+926,83,Male,142,111,111,No,No,41,2022,Bihar,97,No
+927,63,Female,98,200,140,Yes,No,32,2020,Kerala,145,No
+928,55,Female,88,142,80,No,Yes,38,2020,Punjab,43,Yes
+929,57,Female,143,150,70,No,Yes,94,2022,Odisha,55,No
+930,82,Male,125,192,138,Yes,No,53,2020,Goa,114,No
+931,73,Male,117,214,143,Yes,No,59,2022,Maharashtra,110,Yes
+932,60,Female,123,139,108,No,No,56,2021,Gujarat,107,No
+933,78,Female,97,127,88,Yes,Yes,49,2022,Jharkhand,115,No
+934,62,Male,131,185,82,No,No,59,2021,Kerala,150,No
+935,29,Female,87,106,55,No,Yes,69,2021,Rajasthan,117,No
+936,53,Female,97,247,73,No,Yes,40,2021,Jammu and Kashmir,77,Yes
+937,73,Male,142,212,133,Yes,No,42,2022,Gujarat,122,Yes
+938,55,Female,115,170,64,No,Yes,88,2020,Uttar Pradesh,58,No
+939,40,Male,90,184,115,No,Yes,45,2020,Maharashtra,41,No
+940,20,Male,125,216,81,No,No,79,2021,Madhya Pradesh,52,Yes
+941,23,Male,143,196,62,Yes,No,78,2022,Assam,100,Yes
+942,21,Male,82,193,72,Yes,Yes,64,2024,Goa,97,Yes
+943,79,Male,89,198,120,No,No,76,2023,Jharkhand,147,No
+944,51,Male,125,103,72,Yes,No,98,2022,Maharashtra,91,Yes
+945,74,Male,134,221,62,No,No,91,2022,Bihar,63,No
+946,47,Female,132,104,101,No,No,30,2024,Telangana,116,No
+947,20,Female,102,222,41,No,No,79,2023,Haryana,132,Yes
+948,32,Male,83,174,100,Yes,Yes,81,2020,Punjab,63,Yes
+949,28,Female,116,245,82,Yes,Yes,56,2020,Gujarat,66,Yes
+950,85,Male,131,149,112,Yes,No,33,2022,Haryana,101,Yes
+951,60,Female,114,200,67,No,Yes,84,2024,Telangana,140,Yes
+952,31,Female,102,249,147,No,Yes,52,2022,Uttar Pradesh,133,No
+953,28,Male,145,200,96,Yes,No,31,2024,Gujarat,145,No
+954,44,Male,140,198,62,No,Yes,83,2020,Bihar,31,Yes
+955,24,Female,110,230,113,Yes,No,30,2020,Tamil Nadu,70,Yes
+956,25,Female,132,101,50,No,No,37,2023,Uttarakhand,49,Yes
+957,37,Male,107,122,144,Yes,Yes,32,2024,Uttarakhand,32,No
+958,85,Male,99,202,138,No,Yes,47,2020,Telangana,149,Yes
+959,20,Female,145,139,67,No,No,87,2023,Odisha,48,Yes
+960,83,Female,105,218,44,Yes,Yes,60,2023,Chhattisgarh,146,No
+961,84,Female,86,151,54,Yes,No,44,2023,Assam,67,Yes
+962,28,Male,136,222,102,Yes,No,39,2021,Karnataka,105,No
+963,20,Female,102,131,137,Yes,Yes,63,2021,Maharashtra,49,No
+964,78,Male,121,118,100,Yes,Yes,65,2021,Telangana,109,Yes
+965,66,Female,146,176,115,Yes,Yes,70,2020,Maharashtra,110,No
+966,83,Female,123,182,139,Yes,Yes,46,2021,Jharkhand,146,No
+967,66,Male,124,235,118,Yes,No,33,2021,Haryana,90,Yes
+968,59,Male,109,139,62,Yes,Yes,30,2020,Chhattisgarh,82,Yes
+969,34,Female,127,111,107,Yes,No,49,2021,Kerala,67,No
+970,63,Male,92,156,129,No,Yes,86,2023,Gujarat,71,No
+971,79,Male,109,157,46,No,No,78,2023,Odisha,126,No
+972,84,Male,143,247,125,No,No,57,2021,Bihar,73,No
+973,73,Female,112,106,65,No,Yes,94,2022,Bihar,90,No
+974,76,Female,115,235,118,No,Yes,85,2021,Uttarakhand,101,Yes
+975,60,Female,109,230,113,No,Yes,59,2022,Jharkhand,148,No
+976,30,Female,114,117,105,Yes,No,54,2021,Telangana,115,Yes
+977,64,Female,81,238,83,Yes,Yes,34,2024,Rajasthan,95,Yes
+978,60,Male,88,153,72,Yes,Yes,87,2020,Kerala,98,No
+979,51,Male,129,159,50,No,Yes,60,2020,Assam,83,No
+980,67,Male,95,204,77,Yes,Yes,35,2021,Punjab,63,No
+981,79,Female,101,111,116,No,Yes,32,2024,Tamil Nadu,83,Yes
+982,72,Female,141,150,80,No,No,80,2022,Odisha,65,No
+983,74,Male,92,178,51,Yes,No,94,2020,Telangana,110,Yes
+984,82,Male,95,198,77,No,Yes,64,2020,Gujarat,75,No
+985,64,Male,82,205,149,Yes,No,52,2021,Maharashtra,85,Yes
+986,60,Male,136,106,75,No,No,97,2024,Himachal Pradesh,78,Yes
+987,57,Male,137,121,53,No,No,61,2021,Tamil Nadu,42,No
+988,53,Male,82,229,96,Yes,No,76,2024,Jharkhand,89,Yes
+989,68,Female,84,129,130,Yes,Yes,71,2021,Bihar,35,Yes
+990,24,Female,144,171,47,Yes,Yes,63,2022,Karnataka,112,Yes
+991,30,Male,102,122,145,No,Yes,68,2023,Uttar Pradesh,52,Yes
+992,61,Male,136,155,120,No,Yes,42,2021,Gujarat,143,No
+993,52,Male,107,192,104,Yes,No,90,2024,Kerala,90,No
+994,52,Female,87,107,95,Yes,No,80,2023,Karnataka,44,Yes
+995,51,Female,119,203,139,Yes,Yes,57,2022,Assam,35,Yes
+996,85,Male,94,220,82,No,No,74,2022,Goa,107,No
+997,76,Male,135,111,56,Yes,Yes,36,2024,Haryana,78,No
+998,43,Male,140,147,132,Yes,No,74,2024,Jammu and Kashmir,107,Yes
+999,52,Female,105,199,117,No,No,66,2022,Assam,45,Yes
+1000,64,Male,108,140,40,No,Yes,80,2021,Himachal Pradesh,136,Yes
